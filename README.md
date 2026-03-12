@@ -280,7 +280,7 @@ Cần cài đặt:
 ## 2. Clone repository
 
 
-git clone https://github.com/your-repository/bike-rental-web.git
+git clone https://github.com/thuongdu100-cpu/AssignmentProject-Bike-Rental-Web/tree/main?tab=readme-ov-file
 
 
 ---
@@ -329,7 +329,7 @@ Một số cải tiến có thể thực hiện:
 # 👨‍💻 Contributors
 
 
-Thưởng Nguyễn Hữu
+Nhóm 5 
 
 
 Sinh viên ngành **Kỹ thuật phần mềm**
